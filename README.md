@@ -1,5 +1,5 @@
 # Grocery_Product_Sales
-American grocery store sales data by units, transactions, stores
+Code for American grocery store sales data by units, transactions, stores, product category
 
 ## This research aims to detect variables that predict units purchased for a large American grocery market chain.
 
